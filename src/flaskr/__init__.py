@@ -1,5 +1,4 @@
 import os
-from re import A
 
 from flask import Flask
 
